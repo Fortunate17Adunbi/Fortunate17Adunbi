@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Adunbi Fortunate am a 15 years old web developer
-- 👀 I’m interested in learning Ai, Machine Learning, Blockchain technology
-- 🌱 I’m currently learning Python, Mysql, php, JS, 
+- 👋 Hi, I’m Adunbi Fortunate. I am a 15 years old web developer
+- 👀 I’m interested in learning Ai, Machine Learning, Blockchain technology, Robotics, Deep learning ......
+- 🌱 I’m currently learning at cs50 Python, Mysql, php, JS, 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on email: samuelfortunate098@gmail.com 
 - Twitter account: https://twitter.com/FortunateAdunbi
