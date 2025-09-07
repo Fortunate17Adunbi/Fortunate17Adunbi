@@ -1,7 +1,5 @@
 
-- 👀 I’m interested in learning Ai, Machine Learning, Blockchain technology, Robotics, Deep learning ......
-- 🌱 I’m currently learning at cs50, Python, Mysql, php. 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Blockchain technology
 
 
 <!---
